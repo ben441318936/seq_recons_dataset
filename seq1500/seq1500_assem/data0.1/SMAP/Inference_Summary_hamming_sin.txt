@@ -1,0 +1,8 @@
+Dataset Report
+Number of sequences =   1000
+Average normalized edit distance = 0.1630592938041304
+Average normalized editdistance 2 = 0.2518667554963356
+Average normalized hamming distance = 0.4648447701532318
+Average delta = 0.07347015344032154
+Average normalized len diff = 0.027931379080612984
+Mode = hamming
