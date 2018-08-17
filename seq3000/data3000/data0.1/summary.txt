@@ -2,7 +2,7 @@ Dataset Report
 Output directory = seq3000/data3000/data0.1
 Sequence Length = 3000
 Alphabet Size = 2
-Deletion probability = 0
+Deletion probability = 0.1
 Number of sequences = 5000
 Number of traces = 1
 Train size = 60.0%
